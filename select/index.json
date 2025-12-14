@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ばかみたい【Taxi Driver Edition】",
+  "base_artist": "桐生一馬(黒田崇矢)",
+  "createdAt": "2025-12-14T10:47:29.923245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ばかみたい - Taxi Driver Edition",
+      "artist": "桐生一馬(黒田崇矢)",
+      "has_synced": true,
+      "path": "select/01_ばかみたい_-_Taxi_Driver_Edition_桐生一馬(黒田崇矢).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "龍が如く5 夢、叶えし者（ばかみたい [Taxi Driver Edition]/ 桐生一馬 [黒田崇矢]）｜PS3",
+      "artist": "福山光晴",
+      "has_synced": true,
+      "path": "select/02_龍が如く5_夢、叶えし者(ばかみたい_[Taxi_Driver_Edition]__桐生一馬_[黒田崇矢])_PS3_福山光晴.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ばかみたい【Taxi Driver Edition】",
+      "artist": "桐生一馬(黒田崇矢)",
+      "has_synced": false,
+      "path": "select/pl_01_ばかみたい【Taxi_Driver_Edition】_桐生一馬(黒田崇矢).txt"
+    }
+  ]
+}
